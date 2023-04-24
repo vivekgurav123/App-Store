@@ -1,0 +1,7 @@
+/* Write your CSS here */
+
+.tab-item button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
